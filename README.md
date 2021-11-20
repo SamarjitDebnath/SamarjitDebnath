@@ -13,6 +13,4 @@ I'm a Software Engineer based in India. I really find it joyful learning new tec
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SamarjitDebnath)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samarjit-debnath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://samarjitdebnath.github.io/Digital_Portfolio/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarjitDebnath)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Profile views](https://gpvc.arturio.dev/SamarjitDebnath)  
