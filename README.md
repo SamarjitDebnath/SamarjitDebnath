@@ -12,6 +12,6 @@ I'm a Software Engineer based in India. I really find it joyful learning new tec
 - ⚛️ I’m currently learning React JS 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SamarjitDebnath)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samarjit-debnath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://samarjitdebnath.github.io/Digital_Portfolio/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/SamarjitDebnath)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/samarjit-debnath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://samarjitdebnath.github.io/Digital_Portfolio/)  
 
 ![Profile views](https://gpvc.arturio.dev/SamarjitDebnath)  
