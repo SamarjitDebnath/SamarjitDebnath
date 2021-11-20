@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Samarjit Debnath
 #### Software Development
-![Software Development](https://github.com/SamarjitDebnath/SamarjitDebnath/blob/main/banner.png)
+![Software Development](https://github.com/SamarjitDebnath/SamarjitDebnath/blob/main/banner_.png)
 
 I'm a Software Engineer based in India. I really find it joyful learning new technologies, frameworks like CPP, Python, Kernels, AI/ML, and I do work in web dev also.
 
