@@ -8,6 +8,7 @@ I'm a Software Engineer based in India. I really find it joyful learning new tec
 * 🤖 MACHINE LEARNING
 * 🌍 HTML, CSS
 
+## Status
 - ⚛️ I’m currently learning React JS 
 
 
