@@ -4,11 +4,11 @@
 I am a Software Engineer based in India. I find it joyful to learn new technologies. And frameworks like CPP, Python, Kernels, and AI/ML, and I also work in web development.
 
 ## Skills and Experience  
-* 🧑‍💻 C, CPP, PYTHON
-* 🗃️ SQL, PYSPARK, PANDAS
+* 🧑‍💻 C, CPP, PYTHON, FASTAPI
+* 🗃️ SQL, PYSPARK, PANDAS, MongoDB
 * ☁️ AZURE DATABRICKS
 * 🤖 MACHINE LEARNING / DEEP LEARNING
-* 🌍 HTML, CSS
+* 🌍 HTML, CSS, HTTP METHODS(REST API)
 
 ## Status
 - I am currently working on Big Data & Data Science 
