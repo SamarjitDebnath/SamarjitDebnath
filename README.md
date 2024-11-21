@@ -7,10 +7,10 @@ I am a Software Engineer based in India. I find it joyful to learn new technolog
 * 🧑‍💻 C, CPP, PYTHON, FASTAPI
 * 🗃️ SQL, PYSPARK, PANDAS, MongoDB
 * ☁️ AZURE DATABRICKS
-* 🤖 MACHINE LEARNING / DEEP LEARNING
+* 🤖 MACHINE LEARNING / DEEP LEARNING / LLM
 * 🌍 HTML, CSS, HTTP METHODS(REST API)
 
 ## Status
-- I am currently working on Big Data & Data Science 
+- I am currently working on Big Data & Data Science
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/SamarjitDebnath)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/samarjit-debnath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://samarjitdebnath.github.io/Digital_Portfolio/)
