@@ -2,9 +2,18 @@
 
 # [Samarjit Debnath](https://samarjitdebnath.github.io/)
 
-🙋🏻‍♂️ Experienced Software Engineer and Machine Learning Specialist with a background in scalable system design and data pipeline engineering. At Optum India, I developed a UNIFAI-style orchestration for models, cutting `processing time from weeks to minutes`, and deployed scalable production systems. My feature engineering and ML model evaluation improved disease event prediction accuracy by `2.5-3%`. I also built cloud-based ML models and data pipelines, achieving `98.5% accuracy` in reproducing historical ML runs.
+⚙️ Machine Learning Engineer | 💻 Software Developer | 4+ Years Experience
 
-At Kinara, Inc., I contributed to the design of software tools for the ARA-1 chip and developed a System API trace tool. My technical skills include Python, C/C++, Azure Databricks, Apache Airflow, and various ML/DL frameworks. I hold a B.Tech in Electronics and Communication Engineering from NIT Agartala, where I created an IoT-based Smart Agriculture System. My software development and machine learning expertise drive impactful solutions in the healthcare and technology sectors.
+Machine Learning Engineer with 4+ years of experience delivering production-ready AI/ML and data engineering solutions in healthcare 🏥 and semiconductors 🔬. Skilled in building cloud-native pipelines ☁️, deploying LLM-powered applications 🤖, and optimizing large-scale data workflows ⚡ for speed, scalability, and accuracy.
+
+🏥 Simplify Healthcare – Built LLM-driven FastAPI services for autonomous extraction & summarization of healthcare PDFs/web data. Designed Gower distance + Agglomerative Clustering systems to group health plans, and BERT–FAISS APIs to semantically align census data. Engineered a hybrid FAISS–fuzzy match–ML algorithm for precise column mapping in complex tabular datasets.
+
+💼 Optum India – Architected a model orchestration framework (Airflow, Spark, Azure Databricks), cutting profiling time from 1–2 weeks → ⏱️ under 15 mins. Enhanced disease event prediction by +2.5–3% 📈 via advanced feature engineering and deployed CatBoost-based ER usage predictors, saving 💰 \$2M per quarter. Optimized severity models, boosting maintainability and runtime speed by ⚡ 45%.
+
+🔬 Kinara, Inc. – Developed performance monitoring, memory benchmarking, and API tracing tools for the ARA-1 semiconductor chip.
+
+🛠️ Technical Skills: Python, C/C++, Spark, Airflow, Azure Databricks, FastAPI, Flask, BERT, LLMs (OpenAI, Gemini), FAISS, MLflow, Docker, Snowflake, SQL, Scikit-Learn, PyTorch, TensorFlow.
+🎓 Education: B.Tech in Electronics & Communication Engineering – NIT Agartala.
 
 ## Skills and Experience  
 * 🧑‍💻 C, CPP, PYTHON, FASTAPI
