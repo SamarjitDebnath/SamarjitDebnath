@@ -12,7 +12,6 @@ Machine Learning Engineer with 4+ years of experience delivering production-read
 
 🔬 Kinara, Inc. – Developed performance monitoring, memory benchmarking, and API tracing tools for the ARA-1 semiconductor chip.
 
-🛠️ Technical Skills: Python, C/C++, Spark, Airflow, Azure Databricks, FastAPI, Flask, BERT, LLMs (OpenAI, Gemini), FAISS, MLflow, Docker, Snowflake, SQL, Scikit-Learn, PyTorch, TensorFlow.
 🎓 Education: B.Tech in Electronics & Communication Engineering – NIT Agartala.
 
 ## Skills and Experience  
